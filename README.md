@@ -13,6 +13,9 @@ Strategy to follow to develop the C# Encryption Class:
 2.- Create a function that encrypts the information you provide through two parameters: text to encrypt and encryption phrase
 3.- Create a function that decrypts the information it provides through two parameters: text to decrypt and decryption phrase
 
-C# Code Class Encrypter:
+Code created with Visual Studio 2022 and Framework 4.8
+
+More info:
+C# Code Class Encrypter on blogger:
 https://practiceexercisecsharp.blogspot.com/2023/03/class-encrypter--system-security-cryptography-asp-net.html
 
