@@ -17,7 +17,7 @@ Code created with Visual Studio 2022 and Framework 4.8
 
 More info:
 C# Code Class Encrypter on juanantonioripoll.es:
-https://www.juanantonioripoll.es/c-sharp-programming-course/code-library/c-sharp-class-encrypter-system-security-cryptography.html
+https://www.juanantonioripoll.es/c-sharp-programming-course/c-sharp-class-encrypter-system-security-cryptography.aspx
 
 C# Code Class Encrypter on blogger:
 https://practiceexercisecsharp.blogspot.com/2023/03/class-encrypter--system-security-cryptography-asp-net.html
